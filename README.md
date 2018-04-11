@@ -70,3 +70,10 @@ pip --user freeze | grep word_search
 pip uninstall word_search
 ```
 
+- For package usage see [client/client_example.py](client/client_example.py)
+```python
+from word_search import word_search_hashset as hs
+from word_search import word_search_trie as ts
+```
+
+
