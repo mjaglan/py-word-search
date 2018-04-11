@@ -19,3 +19,32 @@ python    word_search/word_search_trie.py      res/input/words.txt   15       15
 python -m unittest discover word_search/
 ```
 
+- Create source distribution
+```bash
+# cd PROJECT_ROOT
+python setup.py sdist
+```
+
+-  Install package from this repository
+	- Normal Install
+	```bash
+	# cd PROJECT_ROOT
+	pip install . --user
+	```
+
+	- Development Install
+	```bash
+	# cd PROJECT_ROOT
+	pip install -e . --user
+	```
+
+- Check package installation
+```bash
+pip --user freeze | grep word_search
+```
+
+-  Uninstall package
+```bash
+pip uninstall word_search
+```
+
