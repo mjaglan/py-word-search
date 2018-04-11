@@ -77,3 +77,13 @@ from word_search import word_search_trie as ts
 ```
 
 
+### References
+- [Implementing a Trie in Python - towardsdatascience.com](https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1)
+- [What is the best project structure for a Python application? - stackoverflow.com](https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application)
+  - [According to Jean-Paul Calderone's Filesystem structure of a Python project](https://stackoverflow.com/a/5998845/2105028)
+  - [Open Sourcing a Python Project the Right Way](https://stackoverflow.com/a/19871661/2105028)
+- [Package And Distribute Python Applications - digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications)
+- [Python Packaging User Guide, Tool recommendations - packaging.python.org](https://packaging.python.org/guides/tool-recommendations/)
+- [pypi](https://pypi.python.org/pypi) and [testpypi](https://testpypi.python.org/pypi)
+
+<br/>
