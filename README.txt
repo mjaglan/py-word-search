@@ -6,3 +6,4 @@ How to run?
 from word_search import word_search_hashset as hs
 from word_search import word_search_trie as ts
 
+Refer client/client_example.py in GitHub.
