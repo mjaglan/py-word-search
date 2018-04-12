@@ -5,7 +5,7 @@ setup(
     name="word_search",
 
     # Version number (initial):
-    version="0.0.1.20180411",
+    version="0.0.2.20180411",
 
     # Application author details:
     author="Mayank Jaglan",
@@ -15,7 +15,7 @@ setup(
     packages=["word_search"],
 
     # Details
-    url="http://pypi.python.org/pypi/word_search_v001/",
+    url="https://pypi.org/project/word-search/",
 
     license="LICENSE",
 

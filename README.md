@@ -70,9 +70,9 @@ python setup.py sdist
 	```
 
 - Check package installation
-```bash
-pip --user freeze | grep word_search
-```
+    ```bash
+    pip --user freeze | grep word_search
+    ```
 
 -  Uninstall package
     ```bash
@@ -84,10 +84,10 @@ pip --user freeze | grep word_search
     ```
 
 - For package usage see [client/client_example.py](client/client_example.py)
-```python
-from word_search import word_search_hashset as hs
-from word_search import word_search_trie as ts
-```
+    ```python
+    from word_search import word_search_hashset as hs
+    from word_search import word_search_trie as ts
+    ```
 
 
 ### References
