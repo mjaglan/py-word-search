@@ -5,7 +5,7 @@ setup(
     name="word_search",
 
     # Version number (initial):
-    version="0.0.1.20180408",
+    version="0.0.1.20180411",
 
     # Application author details:
     author="Mayank Jaglan",
