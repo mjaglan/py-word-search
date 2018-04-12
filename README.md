@@ -47,6 +47,15 @@ TOTAL                                                              489     64   
 python setup.py sdist
 ```
 
+-  Install package from [pypi.org/project/word-search](https://pypi.org/project/word-search/)
+    ```bash
+    pip install word_search --user
+    ```
+    or
+    ```bash
+    pip install word-search --user
+    ```
+
 -  Install package from this repository
 	- Normal Install
 	```bash
@@ -66,9 +75,13 @@ pip --user freeze | grep word_search
 ```
 
 -  Uninstall package
-```bash
-pip uninstall word_search
-```
+    ```bash
+    pip uninstall word_search
+    ```
+    or
+    ```bash
+    pip uninstall word-search
+    ```
 
 - For package usage see [client/client_example.py](client/client_example.py)
 ```python
